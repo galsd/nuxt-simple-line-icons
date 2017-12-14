@@ -1,4 +1,3 @@
-# NUXT VUE-MATERIAL
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-simple-line-icons/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-simple-line-icons)
 [![npm](https://img.shields.io/npm/dt/nuxt-simple-line-icons.svg?style=flat-square)](https://npmjs.com/package/nuxt-simple-line-icons)
 
@@ -19,4 +18,4 @@ npm i nuxt-simple-line-icons
 }
 ```
 ## License
-MIT, by [Galley Web Production](https://galley.online/)
+MIT, created by [Galley Web Production](https://galley.online/)
