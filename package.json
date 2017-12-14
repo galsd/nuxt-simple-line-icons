@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-simple-line-icons",
+  "version": "1.0.0",
+  "description": "Nuxt module to add simple-line-icons ",
+  "keywords": [
+    "nuxt",
+    "vuejs",
+    "vue",
+    "simple-line-icons",
+    "module",
+    "plugin"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaso2/nuxt-simple-line-icons.git"
+  },
+  "author": "vaso2 <head@galley.online>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaso2/nuxt-simple-line-icons/issues"
+  },
+  "homepage": "https://github.com/vaso2/nuxt-simple-line-icons#readme",
+  "dependencies": {
+    "simple-line-icons": "latest"
+  }
+}
