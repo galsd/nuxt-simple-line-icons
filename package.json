@@ -13,14 +13,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaso2/nuxt-simple-line-icons.git"
+    "url": "git+https://github.com/galsd/nuxt-simple-line-icons.git"
   },
-  "author": "vaso2 <head@galley.online>",
+  "author": "vaso2 <head@galsd.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vaso2/nuxt-simple-line-icons/issues"
+    "url": "https://github.com/galsd/nuxt-simple-line-icons/issues"
   },
-  "homepage": "https://github.com/vaso2/nuxt-simple-line-icons#readme",
+  "homepage": "https://github.com/galsd/nuxt-simple-line-icons#readme",
   "dependencies": {
     "simple-line-icons": "latest"
   }
